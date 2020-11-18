@@ -32,12 +32,24 @@
 
 ## Sobre o Projeto
 Aplicação completa (Back-end, Front-end e Mobile) de uma transportadora fictícia, com base no desafio em quatro etapas: 
+
 ```
-- https://github.com/rocketseat-education/bootcamp-gostack-desafio-02
-- https://github.com/rocketseat-education/bootcamp-gostack-desafio-03
-- https://github.com/rocketseat-education/bootcamp-gostack-desafio-09
-- https://github.com/rocketseat-education/bootcamp-gostack-desafio-10
+Desafio Back-end Parte 1
+https://github.com/rocketseat-education/bootcamp-gostack-desafio-02
 ```
+```
+Desafio Back-end Parte 2
+https://github.com/rocketseat-education/bootcamp-gostack-desafio-03
+```
+```
+Desafio Aplicação Web
+https://github.com/rocketseat-education/bootcamp-gostack-desafio-09
+```
+```
+Desafio Aplicação Mobile
+https://github.com/rocketseat-education/bootcamp-gostack-desafio-10
+```
+
 
 ### Web
 <p align="center">
