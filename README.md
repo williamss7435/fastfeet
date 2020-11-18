@@ -65,7 +65,7 @@ Aplicação completa (Back-end, Front-end e Mobile) de uma transportadora fictí
 ```
 cd fastfeet-backend
 npm install
-configurar o arquivo .envExample seguindo os passos, depois renomeie para ".env"
+configurar o arquivo example.env seguindo os exemplos de variaveis, depois renomeie para ".env"
 npx sequelize-cli db:migrate
 npm run dev
 ```
