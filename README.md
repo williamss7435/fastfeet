@@ -43,7 +43,7 @@ Aplicação completa (Back-end, Front-end e Mobile) de uma transportadora fictí
 <p align="center">
   <img src="uploads/gif-web.gif"/>
 </p>
-A parte web tem o propósito de gerenciar a transpostadora e todos os seus módulos (entregadores, entregas,destinos e problemas).
+<p>A parte web tem o propósito de gerenciar a transpostadora e todos os seus módulos (entregadores, entregas,destinos e problemas).</p>
 <p align="center">
   <img src="uploads/gerenciamento-encomendas-web.jpg"/>
 </p>
@@ -55,7 +55,7 @@ A parte web tem o propósito de gerenciar a transpostadora e todos os seus módu
 <p align="center">
   <img src="uploads/gif-app.gif"/>
 </p>
-A parte mobile serve para o entregador gerenciar suas encomendas, relatar problemas e confirmar a entrega tirando uma foto da assinatura do destinatário.
+<p>A parte mobile serve para o entregador gerenciar suas encomendas, relatar problemas e confirmar a entrega tirando uma foto da assinatura do destinatário.</p>
 <p align="center">
   <img src="uploads/app-entregadores.jpg"/>
 </p>
