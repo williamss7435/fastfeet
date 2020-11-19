@@ -22,6 +22,7 @@
 - [x] Axios
 - [x] Redux
 - [x] React Router Dom
+- [x] Styled Components
 ```
 ```
 - [x] React Native
