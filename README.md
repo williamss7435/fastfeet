@@ -16,7 +16,6 @@
 - [x] Express
 - [x] Sequelize
 - [x] JWT
-- [x] PostGress
 ```
 ```
 - [x] ReactJS
